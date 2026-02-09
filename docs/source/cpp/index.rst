@@ -85,7 +85,7 @@ Welcome to the Apache Arrow C++ implementation documentation!
       :class-card: contrib-card
       :shadow: none
 
-      Explore Arrow’s API reference documentation
+      Explore Arrow’s API reference documentation1
 
       +++
 
